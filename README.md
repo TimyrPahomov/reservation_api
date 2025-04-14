@@ -60,7 +60,7 @@ http://127.0.0.1:8000/api/reservations/<reservation_id>/
 Проект покрыт тестами, для их запуска нужно в директории с файлом 'docker-compose.yml' ввести команду:
 
 ```sh
-docker compose exec backend pytest
+docker compose exec pytest
 ```
 
 ## Автор
